@@ -1,0 +1,11 @@
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200..900&display=swap');
+
+@font-face {
+    font-family: 'title';
+    src: url(../fonts/TitilliumWeb-Light.woff);
+}
+
+body {
+    font-family: NanumSquare, "noto sans KR", sans-serif;
+}
